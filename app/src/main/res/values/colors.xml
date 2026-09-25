@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="cyber_dark_bg">#070B14</color>
+    <color name="cyber_surface">#0E1726</color>
+    <color name="cyber_surface_variant">#16243B</color>
+    <color name="neon_cyan">#00F0FF</color>
+    <color name="neon_cyan_dim">#3300F0FF</color>
+    <color name="neon_amber">#FFB300</color>
+    <color name="neon_purple">#D500F9</color>
+    <color name="neon_green">#00E676</color>
+    <color name="neon_red">#FF1744</color>
+    <color name="cyber_grid_line">#1A2A44</color>
+    <color name="cyber_text_primary">#E0F7FA</color>
+    <color name="cyber_text_secondary">#78909C</color>
+</resources>

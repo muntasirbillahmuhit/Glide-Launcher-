@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Glide Launcher</string>
+    <string name="hud_status_online">AEGIS HUD ONLINE</string>
+    <string name="hud_status_scanning">SCANNING APKS…</string>
+    <string name="hud_apps">APPS</string>
+    <string name="hud_diagnostics">DIAGNOSTICS</string>
+    <string name="hud_settings">CONFIG</string>
+    <string name="hud_xray_inspector">X-RAY INSPECTOR</string>
+    <string name="search_apps_hint">Search packages &amp; apps…</string>
+    <string name="tab_overview">OVERVIEW</string>
+    <string name="tab_permissions">PERMISSIONS</string>
+    <string name="tab_components">COMPONENTS</string>
+    <string name="tab_memory">STORAGE / ABI</string>
+    <string name="btn_launch">LAUNCH</string>
+    <string name="btn_inspect">X-RAY INSPECT</string>
+    <string name="btn_app_info">SYSTEM INFO</string>
+    <string name="btn_pin">PIN TO HUD</string>
+    <string name="btn_unpin">UNPIN</string>
+    <string name="btn_favorite">FAVORITE</string>
+    <string name="filter_all">ALL</string>
+    <string name="filter_user">USER</string>
+    <string name="filter_system">SYSTEM</string>
+    <string name="filter_high_storage">HEAVY APKS</string>
+    <string name="theme_cyan">CYAN MATRIX</string>
+    <string name="theme_amber">AMBER HAZARD</string>
+    <string name="theme_purple">SYNTH PURPLE</string>
+    <string name="theme_emerald">EMERALD CYBER</string>
+    <string name="theme_crimson">CRIMSON THREAT</string>
+</resources>
